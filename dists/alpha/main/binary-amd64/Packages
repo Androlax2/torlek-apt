@@ -1,0 +1,65 @@
+Package: torlek
+Version: 0.1.0~alpha.5-1
+Architecture: amd64
+Maintainer: Theo Benoit <contact@theobenoit.fr>
+Installed-Size: 54183
+Depends: libc6 (>= 2.39), libgcc-s1 (>= 4.2), git, curl, tmux (>= 3.6)
+Suggests: systemd
+Section: utils
+Priority: optional
+Homepage: https://github.com/Androlax2/agent-cockpit
+Description: agent session cockpit: CLI, terminal UI and per-user daemon
+ Torlek runs coding agents in terminal sessions and keeps their work,
+ questions and approvals together. One installation belongs to one person,
+ with a CLI and terminal UI backed by a per-user daemon and tmux.
+ .
+ This package repackages the published release archive unchanged under
+ /usr/lib/torlek. User services are written per user by
+ `torlek daemon install`; the package starts no daemon.
+Filename: pool/main/t/torlek/torlek_0.1.0~alpha.5-1_amd64.deb
+Size: 13626588
+SHA256: 531a2b31cf4ba1bf982171559357e484f1ee7907524f69f7823dddbd63aaf511
+
+Package: torlek
+Version: 0.1.0~alpha.6-1
+Architecture: amd64
+Maintainer: Theo Benoit <contact@theobenoit.fr>
+Installed-Size: 61268
+Depends: libc6 (>= 2.39), libgcc-s1 (>= 4.2), git, curl, tmux (>= 3.6)
+Suggests: systemd
+Section: utils
+Priority: optional
+Homepage: https://github.com/Androlax2/agent-cockpit
+Description: agent session cockpit: CLI, terminal UI and per-user daemon
+ Torlek runs coding agents in terminal sessions and keeps their work,
+ questions and approvals together. One installation belongs to one person,
+ with a CLI and terminal UI backed by a per-user daemon and tmux.
+ .
+ This package repackages the published release archive unchanged under
+ /usr/lib/torlek. User services are written per user by
+ `torlek daemon install`; the package starts no daemon.
+Filename: pool/main/t/torlek/torlek_0.1.0~alpha.6-1_amd64.deb
+Size: 14963092
+SHA256: 7d9146462e25651fb9d8436f0ceb6bf378def72def61776afe586f29a32ea73b
+
+Package: torlek
+Version: 0.1.0~alpha.7-1
+Architecture: amd64
+Maintainer: Theo Benoit <contact@theobenoit.fr>
+Installed-Size: 65784
+Depends: libc6 (>= 2.39), libgcc-s1 (>= 4.2), git, curl, tmux (>= 3.6)
+Suggests: systemd
+Section: utils
+Priority: optional
+Homepage: https://github.com/Androlax2/agent-cockpit
+Description: agent session cockpit: CLI, terminal UI and per-user daemon
+ Torlek runs coding agents in terminal sessions and keeps their work,
+ questions and approvals together. One installation belongs to one person,
+ with a CLI and terminal UI backed by a per-user daemon and tmux.
+ .
+ This package repackages the published release archive unchanged under
+ /usr/lib/torlek. User services are written per user by
+ `torlek daemon install`; the package starts no daemon.
+Filename: pool/main/t/torlek/torlek_0.1.0~alpha.7-1_amd64.deb
+Size: 16146396
+SHA256: 80933497322298dd6e52b01d22bd85e2d83bf8b688d6589e2de835a7dbabb035
